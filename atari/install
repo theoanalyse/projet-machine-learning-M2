@@ -1,0 +1,4 @@
+conda install -c conda-forge box2d-py
+pip install 'gym[atari]'
+pip install "gym[accept-rom-license]"
+
